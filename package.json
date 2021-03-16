@@ -1,5 +1,5 @@
 {
-  "name": "kf-getticket",
+  "name": "@dawadk/kf-getticket",
   "version": "1.0.0",
   "description": "Kortforsyningens getticket",
   "main": "index.js",
